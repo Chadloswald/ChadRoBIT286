@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1681140053488,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1681140053488,
+            "name": "Commit-0",
+            "content": "# ChadRoBIT286\r\nPersonal repository for BIT286\r\n\r\n\r\n[Get some **bold** Tea!](https://thecatandkettle.com/)\r\n\r\n\r\n## Here is a code block cat!\r\n\r\n```\r\n{\r\n    /_/\\\r\n    ( o o )\r\n    =( = )=\r\n    (\"\"\"\"\")\"\"\"\\\r\n}\r\n```"
+        }
+    ]
+}
